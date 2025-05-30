@@ -2,7 +2,10 @@
 
 <h3 align="left">Other platforms</h3>
 <p align="left">
-<a href="https://www.leetcode.com/mikhailkhorokhorin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mikhailkhorokhorin" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/mikhailkhorokhorin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/23240259" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="24803205" height="30" width="40" /></a>
+</a><a href="https://habr.com/ru/users/mikhailkhorokhorin/" target="blank">Habr</a>
+
 </p>
 <h3> Languages and Tools: </h3>
 <p align="left">
