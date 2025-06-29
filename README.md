@@ -14,6 +14,8 @@
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 </p>
 
+#
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mikhailkhorokhorin&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
@@ -23,5 +25,7 @@
     <img height="200em" src="https://github-readme-stats.vercel.app/api?username=mikhailkhorokhorin&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="RResabala2015"/>
   </a>
 </div>
+
+#
 
 <a href="https://www.ko-fi.com/mikhailkhorokhorin"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a>
