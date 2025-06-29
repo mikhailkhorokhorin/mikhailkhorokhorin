@@ -18,13 +18,10 @@
 
 <div align="center">
   <a href="https://github.com/mikhailkhorokhorin">
-    <img height="210em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mikhailkhorokhorin&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="RResabala2015"/>
-    <img height="210em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mikhailkhorokhorin&theme=tokyonight&utcOffset=3&hide_border=true" alt="RResabala2015"/>
-    <img height="210em" src="https://github-readme-stats.vercel.app/api?username=mikhailkhorokhorin&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="RResabala2015"/>
+    <img height="200em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mikhailkhorokhorin&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="RResabala2015"/>
+    <img height="200em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mikhailkhorokhorin&theme=tokyonight&utcOffset=3&hide_border=true" alt="RResabala2015"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=mikhailkhorokhorin&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="RResabala2015"/>
   </a>
 </div>
-
-
-![]()
 
 <a href="https://www.ko-fi.com/mikhailkhorokhorin"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a>
