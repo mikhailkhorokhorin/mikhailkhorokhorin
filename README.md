@@ -48,7 +48,7 @@
 
 [![Mikhail Khorokhorin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mikhailkhorokhorin&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/mikhailkhorokhorin)
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/mikhailkhorokhorin">
     <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mikhailkhorokhorin&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="RResabala2015"/>
     <img height="155em" src="https://github-readme-stats.vercel.app/api?username=mikhailkhorokhorin&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="RResabala2015"/>
