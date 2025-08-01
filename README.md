@@ -6,9 +6,6 @@
 <a href="https://stackoverflow.com/users/23240259" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="24803205" height="30" width="40" /></a>
 <a href="https://habr.com/ru/users/mikhailkhorokhorin/" target="blank">Habr</a>
 
-
- 
-
 ------
 <h3 align="left">Languages and Tools:</h3>
 <table>
@@ -53,7 +50,7 @@
 
 <div align="center">
   <a href="https://github.com/mikhailkhorokhorin">
-    <img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mikhailkhorokhorin&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="RResabala2015"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mikhailkhorokhorin&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="RResabala2015"/>
+    <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mikhailkhorokhorin&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="RResabala2015"/>
+    <img height="155em" src="https://github-readme-stats.vercel.app/api?username=mikhailkhorokhorin&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="RResabala2015"/>
   </a>
 </div>
