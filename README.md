@@ -50,11 +50,11 @@
 
 <div align="left">
   <a href="https://github.com/mikhailkhorokhorin">
-    <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mikhailkhorokhorin&show_icons=true&locale=en&layout=compact&theme=tokyonight&" alt="RResabala2015"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikhailkhorokhorin&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="RResabala2015"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mikhailkhorokhorin&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="RResabala2015"/>
-    <img height="150em" src="https://nirzak-streak-stats.vercel.app/?user=mikhailkhorokhorin&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="RResabala2015"/>
-
+    <img height="135em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mikhailkhorokhorin&show_icons=true&locale=en&layout=compact&theme=tokyonight&"/>
+    <img height="135em" src="https://nirzak-streak-stats.vercel.app/?user=mikhailkhorokhorin&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true"/>
+    <img height="135em" src="https://github-readme-stats.vercel.app/api?username=mikhailkhorokhorin&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true"/>
+    <img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikhailkhorokhorin&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
+    <img height="135em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mikhailkhorokhorin&theme=tokyonight&utcOffset=3"/>
   </a>
 </div>
 
