@@ -11,11 +11,11 @@
 <table>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=python,fastapi,django"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=python,fastapi,django,nodejs"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,tailwind,bootstrap,vite,vue"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=js,ts,html,css,react,tailwind,bootstrap,vite,vue"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Message Brokers:</td>
