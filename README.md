@@ -10,41 +10,59 @@
 <h3 align="left">Languages and Tools:</h3>
 <table>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=python,fastapi,django,nodejs"/></td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=js,ts,html,css,react,tailwind,bootstrap,vite,vue"/></td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Message Brokers:</td>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Message Brokers</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=redis,rabbitmq"/></td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=postgresql,mysql,sqlite"/></td>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=postgresql,mysql,sqlite,mongodb"/></td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=docker,nginx,kubernetes,grafana,prometheus,sentry"/></td>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=docker,nginx,kubernetes,grafana,prometheus,sentry,elasticsearch"/></td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=git,github"/></td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">IDEs:</td>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">IDEs</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=pycharm,webstorm,vscode,visualstudio"/></td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Operating Systems:</td>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Operating Systems</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=windows,arch"/></td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Other Tools:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=postman,bash,powershell,obsidian"/></td>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Other Tools</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=postman,bash,powershell,obsidian"/></td> 
     </tr>
+    <tr>
+      <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">
+        Python Tools
+      </td>
+      <td>
+        <p align="left">
+          <img src="https://img.shields.io/badge/pytest-0A9EDC?logo=pytest&logoColor=white" alt="pytest">
+          <img src="https://img.shields.io/badge/unittest-3776AB?logo=python&logoColor=white" alt="unittest">
+          <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?logo=sqlalchemy&logoColor=white" alt="SQLAlchemy">
+          <img src="https://img.shields.io/badge/Alembic-444444?logo=alembic&logoColor=white" alt="Alembic">
+          <img src="https://img.shields.io/badge/Poetry-60A5FA?logo=poetry&logoColor=white" alt="Poetry">
+          <img src="https://img.shields.io/badge/Black-000000?logo=black&logoColor=white" alt="Black">
+          <img src="https://img.shields.io/badge/Ruff-FCC21B?logo=ruff&logoColor=black" alt="Ruff">
+          <img src="https://img.shields.io/badge/uv-7F52FF?logo=uv&logoColor=white" alt="uv">
+        </p>
+      </td>
+    </tr>
+
 </table>
 
 ------
