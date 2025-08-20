@@ -27,11 +27,11 @@
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=docker,nginx,kubernetes"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=docker,nginx,kubernetes,grafana,prometheus,sentry"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=git,github,githubactions,grafana,prometheus,sentry2"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=git,github"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">IDEs:</td>
