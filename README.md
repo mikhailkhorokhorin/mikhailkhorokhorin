@@ -42,8 +42,8 @@
         <td><img height="40" src="https://skillicons.dev/icons?i=windows,arch"/></td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Other Tools</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=postman,bash,powershell,obsidian"/></td> 
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Other Languages and Tools</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=c,cpp,postman,bash,powershell,obsidian"/></td> 
     </tr>
     <tr>
       <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">
