@@ -79,4 +79,6 @@
   </a>
 </div>
 
- 
+------
+
+![snake animation](https://github.com/mikhailkhorokhorin/mikhailkhorokhorin/blob/output/github-contribution-grid-snake2.svg)
